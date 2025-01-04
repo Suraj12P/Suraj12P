@@ -51,6 +51,6 @@
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj12P&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj12P&bg_color=11090d&color=f207e3&line=f207e3&point=2d931f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###

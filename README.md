@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Suraj12P/Suraj12P/output/snake.svg" alt="Snake animation" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj12P&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###

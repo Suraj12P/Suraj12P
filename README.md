@@ -27,7 +27,7 @@
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Suraj12P&show_icons=true&theme=gotham">
-  <div weight="1em"></div>
+  
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj12P&layout=donut&theme=gotham">
 </div>
 

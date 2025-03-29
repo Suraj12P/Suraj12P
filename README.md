@@ -4,8 +4,10 @@
 </h1>
 
 ###
-
-<h4 align="left">•	👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.<br><br>•	✨ I'm interested in Building websites , Machine Learning.<br><br>•	🌱 I’m currently learning DSA and Deep Learning.<br><br>•	📫 How to reach me <a>surajpmnr@gmail.com</a></h4>
+•	👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.
+•	✨ I'm interested in Building websites , Machine Learning.
+•	🌱 I’m currently learning DSA and Deep Learning.
+•	📫 How to reach me: surajpmnr@gmail.com
 
 ###
 

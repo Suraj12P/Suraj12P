@@ -5,13 +5,13 @@
 
 ###
 •	👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.
-<br>
+<br><br>
 •	✨ I'm interested in Building websites , Machine Learning.
-<br>
+<br><br>
 •	🌱 I’m currently learning DSA and Deep Learning.
-<br>
+<br><br>
 •	📫 How to reach me: surajpmnr@gmail.com
-<br>
+<br><br>
 
 ###
 

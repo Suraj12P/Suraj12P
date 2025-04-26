@@ -19,7 +19,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,react,html,css,mongodb,express,python,bootstrap,tailwindcss,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,python,html,css,react,mongodb,express,flask,bootstrap,tailwindcss,)](https://skillicons.dev)
 
 ###
 

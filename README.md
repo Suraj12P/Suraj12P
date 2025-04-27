@@ -37,5 +37,3 @@
 </div>
 
 ###
-
-### make gif to the right side of text

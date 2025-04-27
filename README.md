@@ -1,27 +1,23 @@
-<h1 align="left">Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  I'm Suraj P
-</h1>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div align="left">
+    <h1>
+      Hi
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+      I'm Suraj P
+    </h1>
 
+    ###
+    • 👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.<br><br>
+    • ✨ I'm interested in Building websites, Machine Learning.<br><br>
+    • 🌱 I’m currently learning DSA and Deep Learning.<br><br>
+    • 📫 How to reach me: surajpmnr@gmail.com<br><br>
+    ###
+  </div>
 
-###
-•	👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.
-<br><br>
-•	✨ I'm interested in Building websites , Machine Learning.
-<br><br>
-•	🌱 I’m currently learning DSA and Deep Learning.
-<br><br>
-•	📫 How to reach me: surajpmnr@gmail.com
-<br><br>
-
-
-###
-
-<div align="right"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/></div>
-
-
-
-
+  <div align="right">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools :</h3>
 
@@ -31,14 +27,10 @@
 
 ###
 
-
-
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Suraj12P&show_icons=true&theme=gotham">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj12P&layout=donut&theme=gotham">
 </div>
-
-###
 
 ###

@@ -37,7 +37,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj12P&layout=donut&theme=gotham">
 </div>
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suraj12P&theme=dark)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Suraj12P&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###

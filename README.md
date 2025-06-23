@@ -1,11 +1,12 @@
-<div>
+
 <h1 align="left">Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   I'm Suraj P
 </h1>
 
-<div align="right">![](https://komarev.com/ghpvc/?username=Suraj12P&color=green)</div>
-</div>
+<img src="https://komarev.com/ghpvc/?username=Suraj12P&color=green" alt="Profile views" />
+
+
 ###
 •	👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.
 <br><br>

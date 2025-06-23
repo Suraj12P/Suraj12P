@@ -4,7 +4,7 @@
   I'm Suraj P
 </h1>
 
-<div align="right">![](https://komarev.com/ghpvc/?username=your-github-username&color=green)</div>
+<div align="right">![](https://komarev.com/ghpvc/?username=Suraj12P&color=green)</div>
 </div>
 ###
 •	👩‍🎓 CSE Undergrad at College of Engineering Trivandrum.

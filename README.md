@@ -4,7 +4,7 @@
   I'm Suraj P
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=Suraj12P&color=green" alt="Profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Suraj12P&color=green" alt="Profile views" />
 
 
 ###
